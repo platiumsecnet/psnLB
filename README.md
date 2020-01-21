@@ -2,6 +2,8 @@ psnLB - Comprehensive Load Balancer
 ---
 
 # Advantages
+- Support L3, L4, and L7
+- Support Standalone, OpenStack & k8s environments
 
 # Features
 
