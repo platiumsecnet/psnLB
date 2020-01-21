@@ -3,7 +3,10 @@ psnLB - Comprehensive Load Balancer
 
 # Advantages
 - Support L3, L4, and L7
-- Support Standalone, OpenStack & k8s environments
+- Support Standalone, OpenStack & k8s environments: One all-sufficient binary executable, plus one toml/json config file
+- Powerful Backends Discovery: Static file, DNS SRV, docker/swarm, consul, text/json, or custom script
+- Multi-Platform: Works on Linux, Windows
+- Flexible Healthchecks: Built-in tcp ping for simple healthchecks + custom scripts for advanced ones
 
 # Features
 
