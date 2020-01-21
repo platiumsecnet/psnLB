@@ -30,8 +30,8 @@ psnLB - Comprehensive Load Balancer
 - Enterprise version
 
 # Release
-v1.0: Higher Performance than HAProxy
-v1.1: More metrics & new logging technologies over HAProxy
+v1.0: Higher Performance than HAProxy<br>
+v1.1: More metrics & new logging technologies over HAProxy<br>
 
 # Refs
 1. https://geekflare.com/open-source-load-balancer/
