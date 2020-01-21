@@ -28,3 +28,6 @@ psnLB - Comprehensive Load Balancer
 # Packaging
 - Free version
 - Enterprise version
+
+# Refs
+1. https://geekflare.com/open-source-load-balancer/
