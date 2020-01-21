@@ -24,6 +24,7 @@ psnLB - Comprehensive Load Balancer
 - HAProxy Enterprise
 - LiteSpeed Load Balancer
 - KEMP Load Balancer: https://kemptechnologies.com/
+- NGINX PLUS
 
 # Packaging
 - Free version
